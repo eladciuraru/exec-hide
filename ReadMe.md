@@ -8,6 +8,7 @@ while using dos path with space at the end, it gets trimmed and therefore
 the call redirect to the file without the space at the end.
 
 Example:
+
 ![command line example](./imgs/command_line.png)
 ![process info](./imgs/process_info.png)
 
